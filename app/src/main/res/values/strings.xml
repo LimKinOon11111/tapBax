@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="box1">Box1</string>
+    <string name="box2">Box2</string>
+    <string name="box3">Box3</string>
+    <string name="box4">Box4</string>
+    <string name="box5">Box5</string>
+    <string name="how_to_play">How to play:</string>
+    <string name="tap_the_boxes_and_buttons">Tap the screen and buttons.</string>
+    <string name="button_red">RED</string>
+    <string name="button_yellow">YELLOW</string>
+    <string name="button_green">GREEN</string>
+</resources>
